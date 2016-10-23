@@ -189,7 +189,7 @@ Frame count:                {ParsedFile.Sdi.FrameCount}
             _client.ExecuteAndWait(async () =>
             {
                 await
-                    _client.Connect("MjM4NjUwNzk0Njc5NzMwMTc4.CupUlw.-FqrkD0t_Atc3UFWA0KnG2EorqY",
+                    _client.Connect("REDACTED PLACE YOUR API KEY HERE",
                         TokenType.Bot);
                 Console.WriteLine("Connected to api!");
                 _client.SetStatus(UserStatus.DoNotDisturb);
