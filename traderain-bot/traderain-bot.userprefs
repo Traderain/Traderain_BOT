@@ -1,9 +1,0 @@
-﻿<Properties StartupConfiguration="{5DEEE6C5-64D8-44E3-B15B-035CA9616582}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench />
-  <MonoDevelop.Ide.ItemProperties.traderain-bot PreferredExecutionTarget="MonoDevelop.Default" />
-</Properties>
